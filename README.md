@@ -50,30 +50,9 @@ Kore.ai Account: Sign up here
 Installation
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/your-username/iasop-cpm.git
-cd iasop-cpm
-Set Up the Flutter Environment
 
-Install the necessary Flutter dependencies:
+git clone https://github.com/Rindhiya28/CPM-IASOP.git
 
-bash
-Copy code
-flutter pub get
-Configure Firebase
-
-Follow the instructions to add Firebase to your Flutter app: Firebase Setup.
-
-Usage
-Run the App
-
-Connect your mobile device or start an emulator, then run:
-
-bash
-Copy code
-flutter run
-Explore the User Interface
 
 Navigate through the app to explore the UI components.
 Please note that the core functionalities (e.g., medicine dispensing, prescription recognition) are not yet implemented.
@@ -103,9 +82,3 @@ Open a Pull Request.
 License
 This project is currently in the prototype phase and does not have a specific license. Please contact the project owner for more details if you wish to use or contribute to this project.
 
-Contact
-For any questions or inquiries, please contact:
-
-Name: [P Vishwa]
-Email: [vishwa.fury@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/vishwa-pandiyan-465326290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
